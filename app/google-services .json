@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231399116025",
+    "firebase_url": "https://pitneybowes-c6f9b.firebaseio.com",
+    "project_id": "pitneybowes-c6f9b",
+    "storage_bucket": "pitneybowes-c6f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231399116025:android:da51af39ae94c267cfe628",
+        "android_client_info": {
+          "package_name": "com.example.pitneybowes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231399116025-cuakshcad8p2b5h2drfajjk4bictja4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNh7S8EMtVZ11bjrcYN3BkwypGOpNHhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231399116025-cuakshcad8p2b5h2drfajjk4bictja4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38119544123",
+    "firebase_url": "https://pitneybowes-7160b.firebaseio.com",
+    "project_id": "pitneybowes-7160b",
+    "storage_bucket": "pitneybowes-7160b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38119544123:android:d4e4bd1a00dd7b4e71131e",
+        "android_client_info": {
+          "package_name": "com.example.pitneybowes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38119544123-9e8n9vjejq8sf7oqcjehqleg9nvgu80c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pitneybowes",
+            "certificate_hash": "38122a7353dbfbb3dc01e7062ee90297d3b8bf6e"
+          }
+        },
+        {
+          "client_id": "38119544123-g2ot9l3pndov8t8aducea1sgfpfmu429.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54g1vl_ZKTBzhKdcSIndxgVoltWwQfXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38119544123-g2ot9l3pndov8t8aducea1sgfpfmu429.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
